@@ -1,0 +1,1 @@
+start python disable_alerts.py & python enable_alerts.py
